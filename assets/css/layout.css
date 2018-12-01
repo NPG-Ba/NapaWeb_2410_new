@@ -1399,7 +1399,6 @@ p span.label {
     font-size: 13px;
     position: relative;
     text-align: left;
-    min-height: 150px;
 }
 
 .footer-area h3{
@@ -1455,7 +1454,8 @@ footer p {
     -moz-border-radius-bottomleft: 3px;
 }
 .widget{
-    margin: auto;
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 #copyright{
@@ -2195,7 +2195,7 @@ i.up {
 }
 
 .text-home {
-    margin-top: 500px;
+    margin-top: 300px;
     background: #61882085;
     padding-top: 52px;
     padding-bottom: 52px;
@@ -2585,7 +2585,7 @@ i.up {
 .img-logo {
     margin-top: 10px !important;
 }
-.btn-getstrat{
+.btn-getstart{
         margin-top: 40px;
 }
 
