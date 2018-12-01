@@ -2604,7 +2604,6 @@ i.up {
     -webkit-box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
     box-shadow:         1px 1px 5px rgba(0,0,0,0.5);
   }
-  a.close-modal {
-    top: 0.6px;
-    right: 0.5px;
+a.close-modal {
+    margin: 14.5px;
 }
